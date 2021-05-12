@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Ajuda"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Joc"},{"p":"<Unnamed>","l":"Jugador"},{"p":"<Unnamed>","l":"Menu"},{"p":"<Unnamed>","l":"Opcions"},{"p":"<Unnamed>","l":"Programa"}];updateSearchResults();
